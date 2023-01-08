@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zenaiyoga/precache-manifest.c31674104f664b4af6f4d3615a947ddb.js"
+  "/zenaiyoga/precache-manifest.156044dc6f1b24196fc37ffec5c638fe.js"
 );
 
 self.addEventListener('message', (event) => {
