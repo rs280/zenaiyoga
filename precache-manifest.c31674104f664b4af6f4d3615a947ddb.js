@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4756f9fed92d9fafe6a619b856ea157",
+    "revision": "f46f304a0682ff10683704971ad08ba6",
     "url": "/zenaiyoga/index.html"
   },
   {
-    "revision": "7eaef9e6fe6cd17e1ef6",
+    "revision": "3244d594908a2811ca96",
     "url": "/zenaiyoga/static/css/main.c062beca.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zenaiyoga/static/js/2.51906d74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7eaef9e6fe6cd17e1ef6",
-    "url": "/zenaiyoga/static/js/main.10a304bd.chunk.js"
+    "revision": "3244d594908a2811ca96",
+    "url": "/zenaiyoga/static/js/main.e21da2aa.chunk.js"
   },
   {
     "revision": "3d5b754087f1b73384ba",

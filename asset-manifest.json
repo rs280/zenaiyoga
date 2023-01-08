@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zenaiyoga/static/css/main.c062beca.chunk.css",
-    "main.js": "/zenaiyoga/static/js/main.10a304bd.chunk.js",
-    "main.js.map": "/zenaiyoga/static/js/main.10a304bd.chunk.js.map",
+    "main.js": "/zenaiyoga/static/js/main.e21da2aa.chunk.js",
+    "main.js.map": "/zenaiyoga/static/js/main.e21da2aa.chunk.js.map",
     "runtime-main.js": "/zenaiyoga/static/js/runtime-main.f3f706b1.js",
     "runtime-main.js.map": "/zenaiyoga/static/js/runtime-main.f3f706b1.js.map",
     "static/js/2.51906d74.chunk.js": "/zenaiyoga/static/js/2.51906d74.chunk.js",
     "static/js/2.51906d74.chunk.js.map": "/zenaiyoga/static/js/2.51906d74.chunk.js.map",
     "index.html": "/zenaiyoga/index.html",
-    "precache-manifest.92b6f85e5dd94cc6543deaa06165fc91.js": "/zenaiyoga/precache-manifest.92b6f85e5dd94cc6543deaa06165fc91.js",
+    "precache-manifest.c31674104f664b4af6f4d3615a947ddb.js": "/zenaiyoga/precache-manifest.c31674104f664b4af6f4d3615a947ddb.js",
     "service-worker.js": "/zenaiyoga/service-worker.js",
     "static/css/main.c062beca.chunk.css.map": "/zenaiyoga/static/css/main.c062beca.chunk.css.map",
     "static/js/2.51906d74.chunk.js.LICENSE.txt": "/zenaiyoga/static/js/2.51906d74.chunk.js.LICENSE.txt",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.f3f706b1.js",
     "static/js/2.51906d74.chunk.js",
     "static/css/main.c062beca.chunk.css",
-    "static/js/main.10a304bd.chunk.js"
+    "static/js/main.e21da2aa.chunk.js"
   ]
 }
