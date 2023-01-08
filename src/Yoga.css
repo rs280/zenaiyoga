@@ -1,0 +1,21 @@
+body{
+    background-color: #ffffff;
+    
+}
+#bob{
+    font-weight: bold;
+    font-size: 45px;
+    text-decoration: none;
+    color: black;
+    /*move the text to the left*/
+    margin-left: -90%;
+    
+    padding: 23px 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+h1{
+    font-size: 80px;
+}
