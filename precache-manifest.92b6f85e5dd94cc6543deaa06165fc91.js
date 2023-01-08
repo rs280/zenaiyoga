@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd76535da066268da1da4e5b2b3bad0f",
+    "revision": "a4756f9fed92d9fafe6a619b856ea157",
     "url": "/zenaiyoga/index.html"
   },
   {
