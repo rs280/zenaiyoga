@@ -215,8 +215,8 @@ function App() {
     canvas.current.width = videoWidth;
     canvas.current.height = videoHeight;
 
-    drawKeypoints(pose["keypoints"], 0.7, ctx);
-    drawSkeleton(pose["keypoints"], 0.8, ctx);
+    drawKeypoints(pose["keypoints"], 0.5, ctx);
+    drawSkeleton(pose["keypoints"], 0.6, ctx);
   };
 
   
@@ -261,7 +261,7 @@ useEffect(() => {runPosenet(canvasRef);})
         display: "flex",
         flexFlow: "column wrap",
           textAlign: "center",
-          color: "white",
+          color: "black",
           marginLeft: "auto",
           marginRight: "auto",
           minWidth: 200,

@@ -9,10 +9,10 @@ import App from './App';
 const Yoga = () => {
     return (
         <>
-            <h3 id ="bob"> Zen.Ai</h3>
+            <h3 id ="bob" onClick={() => {window.open('https://ns280.github.io/zenai')}}> Zen.Ai</h3>
             <Heading title="Yoga Poses" />
             <Switch>
-                <Route exact path="/" render={() => <Body data={Yogas} />} />
+                <Route exact path="/zenaiyoga" render={() => <Body data={Yogas} />} />
                 <Route path="/App/:title/:image" component={App} />
             </Switch>
         </>
