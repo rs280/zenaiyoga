@@ -1,6 +1,7 @@
 {
   "name": "posenet",
   "version": "0.1.0",
+  "homepage": "https://rs280.github.io/zenaiyoga",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -19,6 +20,8 @@
     "react-webcam": "^5.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
